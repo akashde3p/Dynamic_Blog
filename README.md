@@ -2,6 +2,8 @@
 
 
 This is a dynamic blog made with django framework. It can be used as a daily purpose blogging site. 
+
+
 THE LINK TO DEMO TUTORIAL OF THIS BLOG:-> https://drive.google.com/open?id=1vaO_Wd1VzQAK8dKFz-XhWiMndLXbNZcA
 
 The following are the technologies that you require  to run this application on your machine:
