@@ -18,7 +18,7 @@ botocore==1.12.191
 dj-database-url==0.5.0
 
 
-Django==2.2.2
+Django==2.2.3
 
 
 django-crispy-forms==1.7.2
